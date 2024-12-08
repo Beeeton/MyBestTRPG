@@ -1,0 +1,6 @@
+﻿  MyBestTRPG.cpp
+C:\Users\Beton\source\repos\MyBestTRPG\IOManager.h(36,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MyBestTRPG.cpp')
+  
+C:\Users\Beton\source\repos\MyBestTRPG\MyBestTRPG.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MyBestTRPG.vcxproj -> C:\Users\Beton\source\repos\MyBestTRPG\x64\Debug\MyBestTRPG.exe
